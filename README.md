@@ -1,5 +1,5 @@
 # CFCP
-Paper: Evolving Data Stream Clustering Based on Constant False Clustering Probability
+Paper: Evolving Data Stream Clustering Based on Constant False Clustering Probability.
 In this paper, we propose a novel fully online density-based method for clustering evolving data streams. 
 The method has the ability to identify clusters with arbitrary shapes. It is robust to noise and has high accuracy and efficiency in both low and high dimensions. 
 First, hyper-spherical clusters called ”Cchild” are formed, and then by merging ”Cchild”s, the final clusters, ”Cmature”, are formed . 
